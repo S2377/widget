@@ -1,4 +1,4 @@
-#Water Intake Reminder
+# Water Intake Reminder  
 The Water Intake Reminder is a React application designed to help you stay hydrated by tracking your daily water intake and reminding you to drink water at regular intervals. Set a daily goal, receive reminders, and celebrate your progress towards better hydration!
 
 ## Features
